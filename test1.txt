@@ -1,1 +1,6 @@
 just for test
+step1: insert new file
+step2: git add <filename>
+step3: git commit -m "<type any commitname>"
+step4: git push origin main
+
